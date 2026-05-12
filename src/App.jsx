@@ -1,8 +1,8 @@
-import Navbar from "./components/Navbar"
-import Hero from "./components/Hero"
-import TopSelling from "./components/TopSelling"
+import Navbar from "./Components/Navbar"
+import Hero from "./Components/Hero"
+import TopSelling from "./Components/TopSelling"
 import CustomerReview from "./Components/CustomerReview"
-import Besto2 from "./Components/BestO2"
+import Besto2 from "./Components/Besto2"
 import Footer from "./Components/Footer"
 
 function App() {
