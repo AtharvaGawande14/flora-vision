@@ -10,7 +10,7 @@ function Besto2() {
 
             <div className="flex flex-col gap-35 mt-20">
 
-                <div className="w-full h-[520px] bg-[#1F2A1C]/80 rounded-[70px] backdrop-blur-md border border-white/10 flex items-center justify-between px-12">
+                <div className="w-full h-[520px] bg-[#1F2A1C]/80 rounded-[70px] backdrop-blur-md border border-white/10 flex flex-col lg:flex-row items-center justify-between px-12">
 
                     <img
                         className="w-[620px] h-[620px] -mt-16 -ml-12 object-contain"

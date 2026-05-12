@@ -4,7 +4,7 @@ import logoIcon from "../assets/icons/logoicon.png"
 
 function Navbar() {
     return (
-       <nav className=" relative z-20 flex items-center justify-between px-10 py-5 text-white">
+       <nav className=" relative z-20 flex items-center justify-between px-10 py-5 text-white hidden lg:flex">
 
             <div className="flex items-center gap-3">
                 <img className="w-[42px] h-[42px] object-contain" src={logoIcon} alt="FloraVision logo" />

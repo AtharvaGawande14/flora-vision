@@ -9,7 +9,7 @@ function CustomerReview(){
                 Customer Review</h1>
 
     <div className="relative z-10 mt-35 flex flex-wrap justify-center gap-10">
-        <div className="relative w-[420px] h-[400px] bg-[#1F2A1C]/80 rounded-[40px] p-8 flex flex-col pt-15 backdrop-blur-md border border-white/10">
+        <div className="relative w-full max-w-[420px] h-[400px] bg-[#1F2A1C]/80 rounded-[40px] p-8 flex flex-col pt-15 backdrop-blur-md border border-white/10">
 
             <div className="flex items-center gap-4">
 
@@ -67,7 +67,7 @@ function CustomerReview(){
 
                     
 
-            <div className="relative w-[420px] h-[400px] bg-[#1F2A1C]/80 rounded-[40px] p-8 flex flex-col pt-15 backdrop-blur-md border border-white/10">
+            <div className="relative w-full max-w-[420px] h-[400px] bg-[#1F2A1C]/80 rounded-[40px] p-8 flex flex-col pt-15 backdrop-blur-md border border-white/10">
                 <div className="flex items-center gap-4">
 
                         <img

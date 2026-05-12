@@ -4,7 +4,7 @@ function Footer() {
     return (
         <section className="mt-32 px-10 py-20 text-white">
 
-            <div className="flex flex-col lg:flex-row items-start justify-between gap-16">
+            <div className="flex flex-col lg:flex-row items-start justify-between gap-8">
 
                 <div>
 
