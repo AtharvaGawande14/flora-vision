@@ -55,4 +55,4 @@ src/
 
 ## Author
 
-Atharva G
+Atharva Gawande
