@@ -1,6 +1,6 @@
 # FloraVision
 
-A modern and visually immersive plant store landing page built using React, Vite, and Tailwind CSS.
+A modern and visually immersive plant store landing page built using React, Vite, and Tailwind .
 
 ## Live Demo
 
