@@ -4,7 +4,7 @@ A modern and visually immersive plant store landing page built using React, Vite
 
 ## Live Demo
 
-Deployment in progress.
+https://flora-vision-hvfccs7jm-atharva-gawande-s-projects.vercel.app/
 
 ## GitHub Repository
 
